@@ -35,8 +35,9 @@ Install [Oh My ZSH!](https://ohmyz.sh/) in which I use the default theme.
 
 My .vimrc File: 
 
+```vimscript
 colorscheme default
 syntax on
 set number
 set hlsearch
-set incsearch
+set incsearch```
