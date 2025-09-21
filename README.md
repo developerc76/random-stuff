@@ -1,3 +1,3 @@
-## random-stuff
+Classwork & Homework for Algorithms & Data Structures + AP CSA Class
 
- This repo contains some odd and end little projects like racket code files and an HWID activation instruction set
+Code files will be in Java
