@@ -1,24 +1,26 @@
-## Linux Configuration (GNOME DE)
+## Linux Configuration (GNOME DE) DEBIAN
 
 ### Extensions
 
 Install Gnome-Tweaks and Gnome-Extension-Manager
 
-[Install Dash to Dock Extension](https://extensions.gnome.org/extension/307/dash-to-dock/)
-
 [Install User Themes](https://extensions.gnome.org/extension/19/user-themes/)
-
-[Install Vitals](https://extensions.gnome.org/extension/1460/vitals/)
-
-[Install App Menu](https://extensions.gnome.org/extension/6/applications-menu/)
 
 [Install AppIndicator and KStatusNotifierItem Support](https://extensions.gnome.org/extension/615/appindicator-support/)
 
+
+OPTIONAL: 
+
+*  [Install Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+
+*  [Install App Menu](https://extensions.gnome.org/extension/6/applications-menu/)
+
+
 ### Fonts
 
-[Install Inter](https://fonts.google.com/specimen/Inter) as a System Font
+[Install Inter](https://fonts.google.com/specimen/Inter) as a System Font (11)
 
-[Install Jetbrains-Mono](https://www.jetbrains.com/lp/mono/) as the Terminal / Monospace Font
+[Install Jetbrains-Mono](https://www.jetbrains.com/lp/mono/) as the Terminal / Monospace Font (13)
 
 
 ### Themes and Icons
@@ -31,6 +33,9 @@ Icon Theme: [WhiteSur-Dark](https://github.com/vinceliuice/whitesur)
 
 Install [Oh My ZSH!](https://ohmyz.sh/) in which I use the default theme. 
 
+OR use BASH (Bourne Again SHell)
+
+PLEASE TURN OFF TERMINAL SOUNDS
 
 
 My .vimrc File: 
@@ -42,3 +47,5 @@ set number
 set hlsearch
 set incsearch
 ```
+
+REMOVE THE DEFAULT INSTALLED APPS LIKE GAMES, OTHER USELESS TERMINALS, ETC. 
