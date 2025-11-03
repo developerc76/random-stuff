@@ -3,13 +3,13 @@
 //typedef creates an alias for a data type
 //conventionally has _t at the end of the new keyword
 
+using namespace std;
+
+
 typedef std::string text_t;
 using integer = int;
 
 
-#include <iostream>
-
-using namespace std;
 
 int main() {
     
