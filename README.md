@@ -1,10 +1,10 @@
 ### Contents
 
-[GitHub]("https://github.com/jasr4j")  
+[GitHub](https://github.com/jasr4j)  
 
-[Home]("https://jasr4j.github.io")  
+[Home](https://jasr4j.github.io)  
 
-[This Repo]("https://github.com/jasr4j/random-stuff/)
+[This Repo](https://github.com/jasr4j/random-stuff/)
 
 ## random-stuff
 
